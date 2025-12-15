@@ -95,7 +95,7 @@ Each learned model is evaluated under three regimes:
 
 ---
 
-## Repository Structure
+## Structure (when run by team)
 
 ```
 .
@@ -106,18 +106,10 @@ Each learned model is evaluated under three regimes:
 └── README.md
 ```
 
----
+Our data files were too large to upload, so you can access them [here](https://drive.google.com/drive/folders/1mudCpRoK4Rj4_PDrtO6kwWVumpfySgo7?usp=drive_link)
 
-Here is a **revised README section** that is now **fully aligned with your actual notebook code**, including:
+Or, the entire Google Colab environment [here](https://drive.google.com/drive/folders/1IXILImZvjzstYqMX7R30fuI1U_Uo0gv9?usp=drive_link)
 
-* Colab-specific installs
-* Google Drive mounting
-* Local vs Colab path differences
-* Clear “what to comment/uncomment” instructions (important for graders)
-
-You can replace the *How to Run the Project* section in your README with the following.
-
----
 
 ## How to Run the Project
 
